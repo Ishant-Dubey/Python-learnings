@@ -11,7 +11,7 @@ def rotate_image():
 counter = 0
 root = Tk()
 root.title("Wallpaper Viewer")
-
+root.resizable(0,0)
 root.geometry("340x550")
 root.configure(background="black")
 
