@@ -10,6 +10,7 @@ A collection of Python projects built while learning and exploring the language.
 |---|---|---|
 | 01 | [QR Code Generator](./QR%20Code%20Generator/) | Generates a QR code from any URL or text and saves it as a PNG |
 | 02 | [Wallpaper Viewer](./Wallpaper%20Viewer/) | A Tkinter GUI that loads images from a local folder and lets you cycle through them with a "Next" button |
+| 03 | [Calculator](./Calculator/) | A Tkinter desktop calculator with support for basic operations (+, −, ×, ÷) |
 
 > More projects coming soon!
 
